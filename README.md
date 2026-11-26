@@ -9,7 +9,7 @@
 <p align="center">
   🌐 <a href="https://manjunathareddy23.github.io/Professional_portfilio_2026_Perficient/">Portfolio</a> &nbsp;|&nbsp;
   💼 <a href="https://linkedin.com/in/manjunatha-reddy-kummathi-6a3b94264/">LinkedIn</a> &nbsp;|&nbsp;
-  📧 m.kummathi@perficient.com
+  📧 manjukummathi@gmail.com
 </p>
 
 ---
