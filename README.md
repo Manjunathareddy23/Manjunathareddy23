@@ -63,6 +63,6 @@
 `Python for Data Science — IBM` · `AI & Business Intelligence Analyst — NSDC` · `SQL & Relational Databases — IBM` · `Data Analytics — Accenture` · `Artificial Intelligence — Simplilearn` · `Front End Web Development — EDX`
 
 ### 📫 Reach Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://manjunathareddy23.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://manjunathareddy23.github.io/Professional_portfilio_2026_Perficient/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manjunatha-reddy-kummathi-6a3b94264/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.kummathi@perficient.com)
